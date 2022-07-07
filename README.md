@@ -1,1 +1,1 @@
-Full src in branch dev/khanhnp.
+Type script "npm start" to start running app.
