@@ -5,7 +5,7 @@ import initRoute from "./routes/web";
 require('dotenv').config();
 
 
-const port = process.env.PORT || 8000;
+const port = process.env.APP_PORT || 8000;
 const app = express();
 
 viewEngineConfig(app);
