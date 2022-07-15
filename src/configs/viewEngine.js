@@ -7,11 +7,3 @@ const viewEngineConfig = (app) => {
 }
 
 export default viewEngineConfig;
-
-
-// Branch feature/branch_result_compare_rebase (test commit 01)
-
-
-
-
-// Branch feature/branch_result_compare_rebase (test commit 02)
